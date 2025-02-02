@@ -8,10 +8,9 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.countText}>Count: {count}</Text>
       <View style={styles.buttonContainer}>
-
         <Button title="Increase" onPress={() => setCount(count + 1)} />
-        {/* create two more buttons to decrease the count by 1 and reset the count to 0 */}
-        
+        <Button title="Decrease" onPress={() => setCount(count - 1)} />
+        <Button title="Reset" onPress={() => setCount(0)} color="red" />
       </View>
     </View>
   );

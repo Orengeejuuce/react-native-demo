@@ -1,6 +1,8 @@
 # react-native-demo
 ### Installation and Setup Using Expo To Create a Counter App
 
+#### 1. On your phone, download Expo Go 
+
 #### 1. Install Node.js if not installed
 https://nodejs.org/en
 

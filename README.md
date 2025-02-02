@@ -27,7 +27,8 @@ Nothing should be showing on the screen for now
 This creates a new tab and page on Expo Go
 
 ##### 8. Copy and Paste the code from Counter.js to the newly created page
-Finish the code to complete the counter functionalities
+Finish the code to complete the counter functionalities  
+
 Run the start application command again to see your completed counter on your phone!
 
 

@@ -17,8 +17,7 @@ npm install
 ```bash
 npx expo start -c
 ```
-#### 5. Scan QR Code Expo Go App on iOS/Android to run app on the phone 
-Nothing should be showing on the screen for now
+#### 5. Make sure QR code is generated
 
 #### 6. Create a new counter page under app / (tabs)
 This creates a new tab and page on Expo Go
